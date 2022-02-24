@@ -1,4 +1,4 @@
-# Use postgres/example user/password credentials
+# This is an example to use docker-hub
 version: '3.1'
 
 services:
